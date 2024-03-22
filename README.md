@@ -7,7 +7,7 @@
 <div align=center>
 <a>
  	👀&nbsp; Click!&nbsp;&nbsp;→ &nbsp;&nbsp;   
-	<a href="https://www.notion.so/KIMHANSOO-S-NOTION-482119121054463da305fd35b05bee12?pvs=4">
+	<a href="https://www.notion.so/realhansookim/KIMHANSOO-S-NOTION-482119121054463da305fd35b05bee12">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 	</a>
 </div>
