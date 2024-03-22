@@ -1,11 +1,11 @@
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFE5F5,100:FFF7DC&fontColor=CEE3F6&height=205&section=header&text=realhansukim%20Github!&fontSize=75&animation=blink" />
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=wave&height=296&color=gradient&text=Realhansukim'%20Github">
 </div>
 <br>
 <br>
 <br>
 <div align=center>
-	<p> 🍦 Introduction 🍦</p> 
+
  	👀&nbsp; Click!&nbsp;&nbsp;→ &nbsp;&nbsp;   
 	<a href="https://www.notion.so/KIMHANSOO-S-NOTION-482119121054463da305fd35b05bee12?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
@@ -17,7 +17,7 @@
 <br>
 <br>
 <div align=center>
-  <p>🍈 Platforms & Language 🍈</p>
+  <p> 📚Tech Stack📚 </p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -37,7 +37,7 @@
 <br>
 <br>
 <div align=center>
-	<p> 🍋 Tools 🍋<p>
+	<p> 🛠 Tools 🛠<p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
